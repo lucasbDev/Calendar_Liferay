@@ -42,7 +42,7 @@ export class AuthService {
   private mockUsuarioLogin(usuario: Login): Observable<any> {
     // this.http.get<Login[]>(`${environment.API}usuarios?email_like=` + usuario.email)
     var retornoMock: any = [];
-    if (usuario.email === "usuario@gmail.com") {
+    if (usuario.email === "usuario@liferay.com") {
       retornoMock.sucesso = true;
       retornoMock.usuario = usuario;
       retornoMock.token = "TokenQueSeriaGeradoPelaAPI";
