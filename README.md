@@ -1,6 +1,6 @@
 # Liferay Calendar
 ## Descrição
-- Esta é uma aplicação desenvolvida durante a residência de software com o ***Porto Digital***, em parceria com a ***Liferay***, na aplicação, os funcionários podem criar e participar de eventos elaborados nos locais do prédio da empresa ***Liferay***
+- Esta é uma aplicação desenvolvida durante a residência de software com o ***Porto Digital***, em parceria com a ***Liferay***, na aplicação, os funcionários podem criar e participar de eventos elaborados nos locais de convivío do prédio da empresa ***Liferay***
 
 ## Instalação
 
